@@ -8,7 +8,7 @@ download python 3 (3.x) any version. if too many errors occur, get 3.6.5
 click on "clone or download" button on this git repository and download as zip
 
 ## Step 3 
-unzip the folder, and enter it. right click inside the folder after unzipping and click on "open command prompt here" OR "open powershell window here"
+unzip the folder, and enter it. shift + right click inside the folder after unzipping and click on "open command prompt here" OR "open powershell window here"
 
 ## Step 4
 type 
